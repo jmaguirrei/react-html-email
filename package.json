@@ -39,7 +39,8 @@
     "eslint-config-airbnb": "~2.0.0",
     "babel-eslint": "~4.1.6",
     "react": "^15.0.0",
-    "react-dom": "^15.0.0"
+    "react-dom": "^15.0.0",
+    "prop-types": "^15.5.10"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
